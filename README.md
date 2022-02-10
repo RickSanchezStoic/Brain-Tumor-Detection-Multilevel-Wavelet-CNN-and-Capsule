@@ -1,0 +1,1 @@
+Multilevel wavelet CNN model used with capsule networks can give remarkable results for detecting brain tumor.
